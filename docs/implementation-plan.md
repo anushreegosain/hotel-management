@@ -4,7 +4,7 @@
 
 ## 1) Executive Summary
 
-This implementation plan covers the delivery of approved hotel booking enhancements tracked under Jira Epic [SCRUM-218](https://chidanandah73.atlassian.net/browse/SCRUM-218) and supporting stories [SCRUM-219], [SCRUM-220], [SCRUM-221].
+This implementation plan covers the delivery of approved hotel booking enhancements tracked under Jira Epic SCRUM-218 and supporting stories SCRUM-219, SCRUM-220, and SCRUM-221.
 
 The plan follows a 3-sprint approach that:
 - Sprint 1 establishes the project foundation (local environment, database, JWT auth, base app scaffolding).
